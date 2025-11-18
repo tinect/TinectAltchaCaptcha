@@ -1,6 +1,6 @@
 {
     "name": "tinect/altcha-captcha",
-    "description": "",
+    "description": "Self-hosted Altcha Captcha plugin for Shopware 6. Adds secure, user-friendly bot protection without relying on third-party services.",
     "type": "shopware-platform-plugin",
     "version": "1.0.0",
     "authors": [
@@ -27,8 +27,8 @@
             "en-GB": "AltchaCaptcha by tinect"
         },
         "description": {
-            "de-DE": "",
-            "en-GB": ""
+            "de-DE": "Fügt selbstgehostetes Altcha-CAPTCHA zu Shopware 6 hinzu und stärkt die Formularsicherheit mit einer leichten, datenschutzfreundlichen Lösung gegen automatisierten Spam.",
+            "en-GB": "Adds self-hosted Altcha CAPTCHA support to Shopware 6, improving form security with a lightweight, privacy-first solution that protects shops from automated spam."
         },
         "manufacturerLink": {
             "de-DE": "https://github.com/tinect/",
